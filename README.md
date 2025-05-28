@@ -93,9 +93,9 @@ Foram realizadas análises como:
 
 Acesse o dashboard clicando no link abaixo:
 
-🔗 [**Dashboard no Looker Studio**](#) *([← Insira seu link aqui](https://lookerstudio.google.com/reporting/27797ee0-59b6-46d8-916e-8d1f011751bb
+🔗 [**Dashboard no Looker Studio**](https://lookerstudio.google.com/reporting/27797ee0-59b6-46d8-916e-8d1f011751bb
 
-))*
+) 
 
 ---
 
