@@ -99,8 +99,3 @@ Acesse o dashboard clicando no link abaixo:
 
 ---
 
-## 🏁 Como Executar o Projeto
-
-1. Clone o repositório:
-```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
